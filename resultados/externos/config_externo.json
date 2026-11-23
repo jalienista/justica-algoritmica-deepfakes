@@ -1,0 +1,28 @@
+{
+  "checkpoint_sha256": "33715c8832bcc7543cfec122f26d4919e6a0c53850e84412ca47e536c927ecba",
+  "manifest_sha256": "1a382a5d36aa2d023e8982d1110598afe30c80e040124e28b63b956f7af8c5f0",
+  "train_manifest_sha256": "55a1b082f823365c2ca119a38a145e41be5f5105f980268966fad977d2e0c9e1",
+  "seed": 42,
+  "max_per_class": null,
+  "conditions": [
+    "clean"
+  ],
+  "threshold": 0.5,
+  "size": 299,
+  "mean": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "std": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "timm_version": "1.0.22",
+  "torch_version": "2.14.1+cpu",
+  "torchvision_version": "0.29.1+cpu",
+  "batch_size": 4,
+  "device": "cpu",
+  "selection_sha256": "8c21caa2c955a611d1af02cc4673d683b1024792e9255c0bfcb5e2a42ed5180a"
+}
